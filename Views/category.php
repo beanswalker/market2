@@ -15,6 +15,6 @@
      * along with this program.  If not, see <http://www.gnu.org/licenses/>.
      */
 
-// archivo de interfaz gráfica:...
+// archivo de interfaz gráfica(video 22):...
 
 
