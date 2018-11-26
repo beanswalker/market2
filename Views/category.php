@@ -18,3 +18,7 @@
 // archivo de interfaz gráfica(video 22):...
 
 
+?>
+<div class="list_records" id="list_records"></div>
+<div class="new_record" id="new_record"></div>
+<div class="table_show_records"></div>
